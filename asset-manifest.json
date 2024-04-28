@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DevilFlow92/band_app/static/css/main.81b0de48.css",
-    "main.js": "/DevilFlow92/band_app/static/js/main.27bceee2.js",
-    "index.html": "/DevilFlow92/band_app/index.html",
-    "main.81b0de48.css.map": "/DevilFlow92/band_app/static/css/main.81b0de48.css.map",
-    "main.27bceee2.js.map": "/DevilFlow92/band_app/static/js/main.27bceee2.js.map"
+    "main.css": "/band_app/static/css/main.81b0de48.css",
+    "main.js": "/band_app/static/js/main.27bceee2.js",
+    "index.html": "/band_app/index.html",
+    "main.81b0de48.css.map": "/band_app/static/css/main.81b0de48.css.map",
+    "main.27bceee2.js.map": "/band_app/static/js/main.27bceee2.js.map"
   },
   "entrypoints": [
     "static/css/main.81b0de48.css",
